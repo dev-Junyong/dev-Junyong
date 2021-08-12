@@ -2,6 +2,8 @@
 
 [![dev-Junyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Junyong&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+🌱 I’m currently learning ...
+Python, React etc
 
 <!--
 **dev-Junyong/dev-Junyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
