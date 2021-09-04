@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Junyong Park&fontSize=90&animation=twinkling" />
 <div align="center">
-
+  
 ### Hi there 👋
 
 [![dev-Junyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Junyong&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 
 <br>
-<br>
 
 ### 🌈 Design Stack 🌈
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
@@ -27,12 +26,10 @@
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>
 
 <br>
-<br>
 
 ### 🎀 Etc.. Stack 🎀
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
-<br>
 <br>
 
 ## 📫 How to reach me: ...
