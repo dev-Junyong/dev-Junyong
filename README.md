@@ -1,3 +1,5 @@
+<div align="center">
+
 # Junyong Park
 
 ### Hi there 👋
@@ -17,7 +19,6 @@
 
 <br>
 <br>
-<br>
 
 ### 🌈 Design Stack 🌈
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
@@ -28,19 +29,17 @@
 
 <br>
 <br>
-<br>
 
 ### 🎀 Etc.. Stack 🎀
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 <br>
 <br>
-<br>
 
 ## 📫 How to reach me: ...
 <a href="https://www.linkedin.com/in/thisisjun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-
+</div>
 
 <!--
 **dev-Junyong/dev-Junyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
