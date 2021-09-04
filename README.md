@@ -35,7 +35,7 @@
 <br>
 
 ## 📫 How to reach me: ...
-<a href="https://www.linkedin.com/in/thisisjun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thisisjun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/dev.junyong@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
 
