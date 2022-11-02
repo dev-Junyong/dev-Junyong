@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Junyong Park&fontSize=90&animation=twinkling" />
-<div align="center">
+<!-- <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Junyong Park&fontSize=90&animation=twinkling" /> -->
+<!-- <div align="center"> -->
   
 ### Hi there 👋
 
